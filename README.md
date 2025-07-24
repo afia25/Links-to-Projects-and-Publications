@@ -1,6 +1,6 @@
 # Links-to-Projects-and-Publications
 
-<span style="color:blue; font-size:20px;"><b>Projects: </b></span>
+<span style="color:blue; font-size:20px;"><b> Projects: </b></span>
 
 1. Machine Learning Based Diabetes Prediction and Doctor Appointment System.
 Technologies: Python, Machine Learning, Django, HTML, CSS.
