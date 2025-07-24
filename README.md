@@ -1,6 +1,6 @@
 # Links-to-Projects-and-Publications
 
-<span style="color:blue; font-size:20px;"><b> Projects: </b></span>
+<span style="color:blue; font-size:26px;"><b> Projects: </b></span>
 
 1. Machine Learning Based Diabetes Prediction and Doctor Appointment System.<br>
 Technologies: Python, Machine Learning, Django, HTML, CSS.<br>
@@ -24,7 +24,7 @@ GitHub Link: https://github.com/afia25/Healthcare-Information-Management-System-
 Technologies: JavaScript, Python, Django, MySQL, HTML, CSS. <br>
 GitHub Link: https://github.com/afia25/Create-read-update-delete-mvt-  <br>
 
-Publication:
+<span style="color:blue; font-size:26px;"><b> Publications: </b></span>
 
 Published Paper: 18 December, 2024. <br>
 Link: https://link.springer.com/article/10.1007/s42979-024-03556-z  <br>
