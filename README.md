@@ -5,18 +5,18 @@
 • CRUD App using React, Node.js, Tailwind CSS, Express & PostgreSQL <br>
 Technologies: React, Node.js, Tailwind CSS, Express, PostgreSQL, JavaScript <br>
 GitHub Link: https://github.com/afia25/React-Tailwind-Node-PostgreSQL-Express-CRUD <br>
-• Machine Learning Based Diabetes Prediction and Doctor Appointment System.<br>
-Technologies: Python, Machine Learning, Django, HTML, CSS.<br>
-GitHub Link: https://github.com/afia25/Machine-Learning-Based-Diabetes-Prediction-and-Doctor-Appointment-System <br>
 • Crowdfunding Platform with Integrated Software Testing. <br>
 Technologies: HTML, CSS, Django, Solidity, Python, Blockchain.<br>
 GitHub Link: https://github.com/afia25/Crowdfunding-Platform-with-Integrated-Software-Testing <br>
-• Computer Vision Based Fitness Pose Evaluation. <br>
-Technologies: Python, OpenCV, MediaPipe, Machine Learning, Computer Vision <br>
-GitHub Link: https://github.com/afia25/Computer-Vision-Based-Fitness-Pose-Evaluation <br>
+• Machine Learning Based Diabetes Prediction and Doctor Appointment System.<br>
+Technologies: Python, Machine Learning, Django, HTML, CSS.<br>
+GitHub Link: https://github.com/afia25/Machine-Learning-Based-Diabetes-Prediction-and-Doctor-Appointment-System <br>
 • Inventory Management System with Automated Web Testing using Python and Selenium.<br>
 Technologies: Python, Selenium, Django, MySQL, HTML, CSS.<br>
 GitHub Link: https://github.com/afia25/Inventory-Management-System-with-Automated-Web-Testing-using-Python-and-Selenium <br>
+• Computer Vision Based Fitness Pose Evaluation. <br>
+Technologies: Python, OpenCV, MediaPipe, Machine Learning, Computer Vision <br>
+GitHub Link: https://github.com/afia25/Computer-Vision-Based-Fitness-Pose-Evaluation <br>
 • Employee Management System using Java.<br>
 Technologies: Java, C++, CSS.<br>
 GitHub Link: https://github.com/afia25/Employee-Management-System-using-Java  <br>
