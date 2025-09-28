@@ -14,9 +14,9 @@ GitHub Link: https://github.com/afia25/Machine-Learning-Based-Diabetes-Predictio
 • Inventory Management System with Automated Web Testing using Python and Selenium.<br>
 Technologies: Python, Selenium, Django, MySQL, HTML, CSS.<br>
 GitHub Link: https://github.com/afia25/Inventory-Management-System-with-Automated-Web-Testing-using-Python-and-Selenium <br>
-• Computer Vision Based Fitness Pose Evaluation. <br>
+• Computer Vision Based Pose Estimation. <br>
 Technologies: Python, OpenCV, MediaPipe, Machine Learning, Computer Vision <br>
-GitHub Link: https://github.com/afia25/Computer-Vision-Based-Fitness-Pose-Evaluation <br>
+GitHub Link: https://github.com/afia25/Computer-Vision-Based-Pose-Estimation <br>
 • Employee Management System using Java.<br>
 Technologies: Java, C++, CSS.<br>
 GitHub Link: https://github.com/afia25/Employee-Management-System-using-Java  <br>
