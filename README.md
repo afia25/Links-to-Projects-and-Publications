@@ -24,11 +24,12 @@ GitHub Link: https://github.com/afia25/Employee-Management-System-using-Java  <b
 Technologies: MySQL, XAMPP, ER Diagram Tool.<br>
 GitHub Link: https://github.com/afia25/Healthcare-Information-Management-System-using-SQL  <br>
 
-<span style="color:blue; font-size:26px;"><b> Publications: </b></span>
+<!--  <span style="color:blue; font-size:26px;"><b> Publications: </b></span>
 
 Published Paper: 18 December, 2024. <br>
 Link: https://link.springer.com/article/10.1007/s42979-024-03556-z  <br>
 Paper Title: Revolutionizing rose grading: Real-time detection and accurate assessment with yolov8 and deep learning models. <br>
 Role: First Author, Publisher: Springer Nature, Journal: SN Computer Science, Scopus: Q1. <br>
+-->
 
 
